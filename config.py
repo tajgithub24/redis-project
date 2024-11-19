@@ -6,7 +6,7 @@ class Config:
     SQL_PASSWORD = 'Plants@12345'
     SQL_DATABASE = 'flask_app'
     
-    REDIS_HOST = '52.224.123.132'
+    REDIS_HOST = 'TARGET_REDIS_IP'
     REDIS_PORT = 6379
     REDIS_DB = 0
 
